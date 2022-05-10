@@ -1,0 +1,31 @@
+{
+  "description": "Hydracoleccionlechugass1", 
+  "name": "lechuga001",
+  "image": "https://raw.githubusercontent.com/adriancorebooks/hydra1/main/724e86f4091ac928b4dafbcf16e00576.jpg", 
+  "attributes":  [
+    {
+      "trait_type": "Cultivo", 
+      "value": "lechuga"
+    }, 
+    {
+      "trait_type": "Temporada", 
+      "value": "otono"
+    }, 
+    {
+      "trait_type": "Temperatura", 
+      "value": 45
+    }, 
+    {
+      "trait_type": "Humedad", 
+      "value": 42
+    }, 
+    {
+      "trait_type": "luz", 
+      "value": 45
+    }, 
+    {
+      "trait_type": "Calidad", 
+      "value": 10
+    }
+  ] 
+}
