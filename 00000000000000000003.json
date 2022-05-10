@@ -1,0 +1,31 @@
+{
+  "description": "Hydracoleccionlechugass1", 
+  "image": "https://gateway.pinata.cloud/ipfs/QmbcosSeZg6ZqjZfZPGWzQz57g22sP3uV1tESW7mdE7DYA", 
+  "name": "lechuga001",
+  "attributes":  [
+    {
+      "trait_type": "Cultivo", 
+      "value": "lechuga"
+    }, 
+    {
+      "trait_type": "Temporada", 
+      "value": "otono"
+    }, 
+    {
+      "trait_type": "Temperatura", 
+      "value": 45
+    }, 
+    {
+      "trait_type": "Humedad", 
+      "value": 42
+    }, 
+    {
+      "trait_type": "luz", 
+      "value": 45
+    }, 
+    {
+      "trait_type": "Calidad", 
+      "value": 10
+    }
+  ] 
+}
